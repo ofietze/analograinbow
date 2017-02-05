@@ -1,0 +1,49 @@
+{
+    "author": "4T2",
+    "dependencies": {
+        "pebble-clay": "^1.0.0"
+    },
+    "keywords": [],
+    "name": "arainbow",
+    "pebble": {
+        "capabilities": [
+            "health"
+        ],
+        "displayName": "AnalogRainbow",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/watchbg Kopie.png",
+                    "name": "IMAGE_BG",
+                    "storageFormat": "png",
+                    "targetPlatforms": [
+                        "chalk"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Logo",
+                    "menuIcon": true,
+                    "name": "APP_LOGO",
+                    "storageFormat": "png",
+                    "targetPlatforms": [
+                        "chalk"
+                    ],
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "chalk"
+        ],
+        "uuid": "0ef58b4e-473f-4443-b97e-870a3c4d6ff1",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.3.0"
+}

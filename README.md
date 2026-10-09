@@ -1,5 +1,4 @@
-<img src="screenshot.png" alt="screenshot" width="200"/>
-
+![Screenshots](screenshot.png)
 # Analog Rainbow
 
 Pebble watchface with a colorful bezel and colored watch hands.
@@ -12,8 +11,13 @@ drawing), so the face scales to any display size and shape. Each hand takes on
 the color of whichever rim segment it currently points at.
 
 ## Supported platforms
+![Screenshot Basalt](/resources/screenshots/basalt.png)
+![Screenshot Chalk](/resources/screenshots/chalk.png)
+![Screenshot Emery](/resources/screenshots/emery.png)
+![Screenshot Gabbro](/resources/screenshots/gabbro.png)
 
-`basalt` (Pebble Time), `chalk` (Pebble Time Round) and `emery` (Pebble Time 2).
+
+`basalt` (Pebble Time), `chalk` (Pebble Time Round) `emery` (Pebble Time 2) and `gabbro` (Pebble Time Round 2).
 On rectangular displays the dial stays circular and the leftover corners are
 decorated with arcs that echo the nearest rim colors.
 
